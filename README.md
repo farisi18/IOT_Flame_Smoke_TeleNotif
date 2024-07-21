@@ -12,5 +12,5 @@ System Simulasi Deteksi Asap Dan Api Dengan ESP32 Nodemcu Devkit v1:
 Cara Kerjanya Adalah Ketika Sensor Api Atau Asap Menyala Maka LED dan Buzzer akan aktif
 Setelah itu pesan akan dikirimkan ke BOT Telegram untuk notifikasi peringatan 
 
-- ![Gambar](Alat Dikemas Sederhana.jpeg)
+- ![Gambar](Alat_Dikemas_Sederhana.jpeg)
 - ![Latihan](Test.mp4)
