@@ -2,12 +2,12 @@
 #include <HTTPClient.h>
 
 // Masukkan SSID (Nama WiFi) dan Password
-const char* ssid = "Tester"; // Ganti dengan SSID WiFi Anda
-const char* password = "admin123"; // Ganti dengan password WiFi Anda
+const char* ssid = ""; // Ganti dengan SSID WiFi Anda
+const char* password = ""; // Ganti dengan password WiFi Anda
 
 // Masukkan token bot Telegram dan chat ID Anda
-const char* telegramToken = "7002262752:AAFUSMgksR7PpquZ7JRyHu-RF535Q9En8Kc"; // Ganti dengan token bot Telegram Anda
-const char* chatID = "5191268667"; // Ganti dengan chat ID Anda
+const char* telegramToken = ""; // Ganti dengan token bot Telegram Anda
+const char* chatID = ""; // Ganti dengan chat ID Anda
 
 // Pin Definitions
 const int MQ2_DIGITAL_PIN = 13;      // Pin sensor asap (digital DOUT) di GPIO13
